@@ -1,0 +1,28 @@
+/* root */
+:root {
+    --main-color: black;
+}
+
+
+/* fonts */
+
+
+/* styling */
+
+/* generals */
+
+* {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+    padding: 0px;
+}
+
+
+/* nav */
+nav {
+    background-color: var(--main-color);
+}
